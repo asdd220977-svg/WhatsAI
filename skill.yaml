@@ -1,0 +1,5 @@
+name: "whatsai"
+title: "WhatsAI"
+description: "Summarize an exported WhatsApp chat into main points, decisions and dates, and transcribe and summarize its voice notes, each with its source."
+category: "Work and knowledge"
+include_in_prompt: true
