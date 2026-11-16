@@ -1,3 +1,8 @@
+---
+name: whatsai
+description: Summarize an exported WhatsApp chat into main points, decisions and dates, and transcribe and summarize its voice notes, each with its source.
+---
+
 # WhatsAI
 
 ## Get the export file
